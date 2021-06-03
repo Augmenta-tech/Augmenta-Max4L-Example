@@ -4,7 +4,7 @@ Ableton live M4L example to start building your own Augmenta plugin
 
 For example : https://github.com/Theoriz/Augmenta-Max4L-spatializer-plugin
 
-![Uploading bandicam 2021-06-03 13-19-17-418 (1).gif…]()
+![bandicam 2021-06-03 13-19-17-418 (1)](https://user-images.githubusercontent.com/5172593/120638424-61230b80-c470-11eb-8273-b7acc8b0082a.gif)
 
 ## Features
 
